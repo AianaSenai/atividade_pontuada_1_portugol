@@ -1,0 +1,32 @@
+programa
+{
+	funcao inicio ()
+	//variáveis
+	
+	inteiro valor
+	cadeia cd,vermelho, azul,amarelo, vermelho 
+	
+	//solicitando dados
+	escreva ("Escolha o CDs: ")
+	leia(cd)
+	
+	//verificando os dados
+	
+	se vermelho == (valor=10)
+	escreva ("vermelho custar R$10")}
+	
+	se azul == (valor =20)
+	escreva ("azul custa R$20")
+	
+	se amarelo== (valor = 30)
+	escreva ("amarelo custa R$30")
+	
+	se vermelho == (valor= 40 )
+	escreva ("vermelho custa R$40")
+	
+	
+	{
+		
+		
+	}
+}
